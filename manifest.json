@@ -1,0 +1,13 @@
+{   
+    "manifest_version": 2,
+    "name": "RamalListEasy - Lista de ramais",
+    "version": "1.0",
+    "description": "Lista de ramais para facilitar no dia a dia.",
+    "browser_action": {
+        "default_icon": "assets/images/tel.png",
+        "default_popup": "index.html"
+    },
+    "permissions":[
+        "activeTab"
+    ]
+ }
